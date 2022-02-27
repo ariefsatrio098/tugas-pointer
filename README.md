@@ -1,1 +1,4 @@
-# tugas-pointer
+| Name     | Character |
+| ---      | ---       |
+| Backtick | `         |
+| Pipe     | \|        |
